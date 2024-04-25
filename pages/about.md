@@ -14,14 +14,14 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a small portfolio of some of my most recent pieces of writing over the past year and a half. 
+Some backstory: I was initally a computer science major who wasted a couple years writing code that I have already forgotten. When my life seemed bleak, I decided to switch my major for my Bachelor's to English and began writing again after a four year hiatus. These are the pieces deemed worthy enough for online publication. I hope to condense them into one book one day, but preferably anonymous. Within this collection are: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+- Nine pieces of creative non-fiction
+- A sample of my first novel
+- Some pictures for reference
+  
+I do not permit use of any of the works. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
