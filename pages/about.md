@@ -23,6 +23,6 @@ Some backstory: I was initally a computer science major who wasted a couple year
   
 I do not permit use of any of the works. 
 
-{% include feature/pdf.html objectid="cnf000" width="70" %}
+{% include feature/pdf.html objectid="cnf000" width="50" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
